@@ -3,7 +3,7 @@
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bhopal, Madhya Pradesh, India.
 - :telescope: I’m currently a 3rd year B.Tech CSE Core student @ VIT Chennai, contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring the world of full stack development!
 
 - :zap: In my free time, I solve problems on LeetCode and surf web.
 
