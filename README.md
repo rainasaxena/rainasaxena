@@ -24,7 +24,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   
 </div>
 
-# :hammer_and_wrench: 
+# :hammer_and_wrench: Technologies I use..
 ### Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -57,6 +57,11 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
+
+# :bar_chart: My stats..
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainasaxena&layout=compact&theme=vision-friendly-dark)](https://github.com/rainasaxena/github-readme-stats)
+
+
 
 
 
