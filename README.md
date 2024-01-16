@@ -1,4 +1,4 @@
-### Hi there, I'm Raina! 👋
+# Hi there, I'm Raina! 👋
 ### :woman_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bhopal, Madhya Pradesh, India.
 - :telescope: I’m currently a 3rd year B.Tech CSE Core student @ VIT Chennai, contributing to frontend and backend for building web applications.
@@ -24,7 +24,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   
 </div>
 
-### :hammer_and_wrench: 
+# :hammer_and_wrench: 
 ### Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
